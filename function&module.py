@@ -7,6 +7,7 @@ def factorial(num):
 
 m = int(input('m = '))
 n = int(input('n = '))
+
 if n>m:
     m,n=n,m
 
